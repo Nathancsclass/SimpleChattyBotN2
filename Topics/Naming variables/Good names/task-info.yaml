@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# copy the correct variables here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6876#comment
+status: Failed
+feedback:
+  message: |
+    NameError has occurred. Try one more time!
+
+    Failed. Wrong answer
+  time: Wed, 01 Dec 2021 00:25:36 UTC
+record: -1
